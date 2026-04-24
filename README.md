@@ -24,3 +24,9 @@ Demonstrates how a default constructor works in Java.
 
 ## 👤 Author
 Kumar Ayush — BCA CSE Student
+
+
+### 2. User Defined Values — `Employee.java`
+Demonstrates how to assign user defined values to instance variables.
+- Uses `accept()` method to assign values to `eno` and `ename`
+- Uses `show()` method to display employee details
